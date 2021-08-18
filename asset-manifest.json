@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dee427d5.chunk.css",
+    "main.js": "/static/js/main.fd17b456.chunk.js",
+    "main.js.map": "/static/js/main.fd17b456.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.beacbdac.js",
+    "runtime-main.js.map": "/static/js/runtime-main.beacbdac.js.map",
+    "static/js/2.c95ccc29.chunk.js": "/static/js/2.c95ccc29.chunk.js",
+    "static/js/2.c95ccc29.chunk.js.map": "/static/js/2.c95ccc29.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.dee427d5.chunk.css.map": "/static/css/main.dee427d5.chunk.css.map",
+    "static/js/2.c95ccc29.chunk.js.LICENSE.txt": "/static/js/2.c95ccc29.chunk.js.LICENSE.txt",
+    "static/media/Dharmveer.87726a4e.pdf": "/static/media/Dharmveer.87726a4e.pdf",
+    "static/media/index.css": "/static/media/dominojack3dital.ead35817.otf",
+    "static/media/bootstrap-4.a1951bfa.svg": "/static/media/bootstrap-4.a1951bfa.svg",
+    "static/media/css.dbd31fe1.svg": "/static/media/css.dbd31fe1.svg",
+    "static/media/hero.b9f4a333.jpg": "/static/media/hero.b9f4a333.jpg",
+    "static/media/html.11531028.svg": "/static/media/html.11531028.svg",
+    "static/media/javascript-programming-language.43e744a2.svg": "/static/media/javascript-programming-language.43e744a2.svg",
+    "static/media/pro.53fc912d.png": "/static/media/pro.53fc912d.png",
+    "static/media/pro1.50615853.png": "/static/media/pro1.50615853.png",
+    "static/media/pro3.79623a98.png": "/static/media/pro3.79623a98.png",
+    "static/media/pro4.5312ab9f.png": "/static/media/pro4.5312ab9f.png",
+    "static/media/react-js.4ee8d000.svg": "/static/media/react-js.4ee8d000.svg",
+    "static/media/wordpress.82d53bf0.svg": "/static/media/wordpress.82d53bf0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.beacbdac.js",
+    "static/js/2.c95ccc29.chunk.js",
+    "static/css/main.dee427d5.chunk.css",
+    "static/js/main.fd17b456.chunk.js"
+  ]
+}
